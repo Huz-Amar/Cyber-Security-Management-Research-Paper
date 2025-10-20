@@ -31,6 +31,8 @@ Below are our current findings briefly summarized:
 
 **Please note that as of now, research into the United Kingdom has not yet been conducted**
 
+** 50% Implementation Video - https://youtu.be/LBQvJ9Oo4MY **
+
 ## Current References
 
 ### The United States
