@@ -27,7 +27,8 @@ Below are our current findings briefly summarized:
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **European Union**     | Moved from risk-based to threat-based governance. Strong central coordination via NIS2 and CRA, improving resilience but creating regulatory burdens for smaller firms.         |
 | **United States**      | Market-driven and voluntary frameworks like NIST CSF 2.0 prioritize innovation and flexibility but result in uneven protection and weaker accountability.                       |
-| **China**              | Highly centralized governance under the CCP, with limited transparency. Cybersecurity equated with national and social control at a national level                              |
+|                        | Social risks emphasized via securing key infrastructure                                                                                                                         |     
+| **China**              | Highly centralized governance under the CCP, with limited transparency. Cybersecurity equated with national and social control at a country-wide level                          |
 
 **Please note that as of now, research into the United Kingdom has not yet been conducted**
 
