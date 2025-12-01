@@ -7,7 +7,7 @@ To evaluate the frameworks that these nations choose, the baseline paper defines
 
 | **Dimension**                     | **Explanation**                                                                                                                           |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Risk Management Definition**    | How each nation defines, handles, and communicates the security, ethical, and societal risks at play                                      |
+| **Risk Management & Governance**    | How each nation defines, handles, and communicates the security, ethical, and societal risks at play                                      |
 | **Adaptability & Innovation**     | Flexibility to integrate new technologies and encourage innovation while maintaining oversite and regulatory guidelines / controls        |
 | **Transparency & Accountability** | Clarity, openness, and enforceability of cybersecurity frameworks and their implementation.                                               |
 | **Stakeholder Engagement**        | Level of collaboration and involvement among government, industry, and civil society in shaping and enforcing cybersecurity policy.       |
