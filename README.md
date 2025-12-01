@@ -3,16 +3,16 @@
 ## Research Paper Idea
 Our baseline paper was **Between Innovation and Oversight: A Cross-Regional Study of AI Risk Management Framework in the EU, US, UK, China by Amir al-Maamari**. This paper analyzed AI frameworks across these four nations to present their frameworks and give an understanding of the different approaches of AI governance on a national scale.
 
-To evaluate the frameworks that these nations choose, the baseline paper defines the following criteria:
+To evaluate the frameworks that these nations choose, the baseline paper defines a criteria for judgement based off of Risk Mitigation Capability, Goverance and Oversite, Regulatory Comprehensiveness, Adaptability and Innovation, Transparency and Accountability, and Stakeholder Engagement. Based of this, we created a similar but simplified criteria for evaluating the four nations (we that the Risk Mitigation and Governance sections can be sufficiently combined
+
 | **Dimension**                     | **Explanation**                                                                                                                           |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Risk Management**               | How each nation defines, mitigates, and communicates the security, ethical, and societal risks at play                                    |
-| **Governance**                    | Degree of coordination, regulatory comprehensiveness, and oversight across institutions and sectors                                       |
+| **Risk Management Definition**    | How each nation defines, handles, and communicates the security, ethical, and societal risks at play                                      |
 | **Adaptability & Innovation**     | Flexibility to integrate new technologies and encourage innovation while maintaining oversite and regulatory guidelines / controls        |
 | **Transparency & Accountability** | Clarity, openness, and enforceability of cybersecurity frameworks and their implementation.                                               |
 | **Stakeholder Engagement**        | Level of collaboration and involvement among government, industry, and civil society in shaping and enforcing cybersecurity policy.       |
      
-Our research paper extends the baseline paper's foundation, using the same research design and evaluation frameworks. The goal is to give a complementary perspective that situates cybersecurity policy within the the same AI governance frameworks of the baseline paper, to give a broader perspective on how governments manage digital risks and innovation. The idea is not to *replace* the findings of the baseline paper, but to *expand* the scope of the baseline paper to the cybersecurity domain. 
+Our research paper continues the baseline paper's foundation, using the same research design and evaluation frameworks. The goal is to give a complementary perspective that situates cybersecurity policy within the the same AI governance frameworks of the baseline paper, to give a broader perspective on how governments manage digital risks and innovation. The idea is not to *replace* the findings of the baseline paper, but to *expand* the scope of the baseline paper to the cybersecurity domain. 
 
 This is done because we recongize a significant gap in current scholarship, which is that few studies have examined AI and cybersecurity governance *together*. There is no authority that collects evidence and ranks cybersecurity controls by efficacy, revealing the lack of a unified or evidence-based cybersecurity governance framework. Even the EU's Artificial Intelligence Act, one of the first major regulatory acts of its kind, had little attention in regard to cybersecurity at large; even the definition of it was not done well. There's also additional information showing that there's inadequate governance policies in regards cybersecurity and large language models, showing that large frameworks still remain unprepared for the convergence of AI and and other cybersecurity risks.
 
