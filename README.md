@@ -7,10 +7,9 @@ To evaluate the frameworks that these nations choose, the baseline paper defines
 
 | **Dimension**                     | **Explanation**                                                                                                                           |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Risk Management & Governance**    | How each nation defines, handles, and communicates the security, ethical, and societal risks at play                                      |
+| **Risk Management & Governance**    | How each nation defines, handles, and communicates the security, ethical, and societal risks at play                                    |
 | **Adaptability & Innovation**     | Flexibility to integrate new technologies and encourage innovation while maintaining oversite and regulatory guidelines / controls        |
-| **Transparency & Accountability** | Clarity, openness, and enforceability of cybersecurity frameworks and their implementation.                                               |
-| **Stakeholder Engagement**        | Level of collaboration and involvement among government, industry, and civil society in shaping and enforcing cybersecurity policy.       |
+| **Transparency & Stakeholder Engagement** | Level of collaboration and involvement among government, industry, and civil society in shaping and enforcing cybersecurity policy |                                             
      
 Our research paper continues the baseline paper's foundation, using the same research design and evaluation frameworks. The goal is to give a complementary perspective that situates cybersecurity policy within the the same AI governance frameworks of the baseline paper, to give a broader perspective on how governments manage digital risks and innovation. The idea is not to *replace* the findings of the baseline paper, but to *expand* the scope of the baseline paper to the cybersecurity domain. 
 
